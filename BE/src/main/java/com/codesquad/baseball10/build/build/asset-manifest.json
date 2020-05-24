@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3912dd14.chunk.js",
+    "main.js.map": "/static/js/main.3912dd14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c18ec61.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c18ec61.js.map",
+    "static/js/2.8d36132e.chunk.js": "/static/js/2.8d36132e.chunk.js",
+    "static/js/2.8d36132e.chunk.js.map": "/static/js/2.8d36132e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fb75af764b7a59aba0d914467283e6ae.js": "/precache-manifest.fb75af764b7a59aba0d914467283e6ae.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.8d36132e.chunk.js.LICENSE.txt": "/static/js/2.8d36132e.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/static/media/background.f785dc7a.png",
+    "static/media/github.svg": "/static/media/github.e9d92e6b.svg",
+    "static/media/idle_away.png": "/static/media/idle_away.0bfcee2c.png",
+    "static/media/idle_home.png": "/static/media/idle_home.a276a851.png",
+    "static/media/logo.svg": "/static/media/logo.1f6adfca.svg",
+    "static/media/magnify.svg": "/static/media/magnify.fdb468fc.svg",
+    "static/media/run_away.png": "/static/media/run_away.b24304dc.png",
+    "static/media/run_home.png": "/static/media/run_home.59246e83.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c18ec61.js",
+    "static/js/2.8d36132e.chunk.js",
+    "static/js/main.3912dd14.chunk.js"
+  ]
+}

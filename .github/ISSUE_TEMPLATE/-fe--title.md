@@ -1,9 +1,9 @@
 ---
-name: "FE 피쳐 개발 이슈 템플릿"
+name: "FE 피쳐 개발 이슈 템플릿(Ed)"
 about: FE 피쳐 개발 이슈 템플릿
 title: "[FE] Title"
 labels: "enhancement"
-assignees: "choichoigang" , "sungik-choi"
+assignees: "sungik-choi"
 ---
 
 ### 기능
