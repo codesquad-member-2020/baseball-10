@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Baseball Project
 
-## Available Scripts
+## Team Members
 
-In the project directory, you can run:
+- FE: Hoi , Ed
+- BE: Jack
 
-### `yarn start`
+## 프로젝트 적용 사항
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React
+- styled-component
+- useContext , useReducer
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## 프로젝트 구현 화면
 
-### `yarn test`
+- 초기 화면
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![스크린샷 2020-08-21 오후 10 51 50](https://user-images.githubusercontent.com/49897409/90898860-10bb4f80-e402-11ea-997d-72f8baa9d739.png)
 
-### `yarn build`
+- 게임 대기
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![스크린샷 2020-08-21 오후 10 51 40](https://user-images.githubusercontent.com/49897409/90898864-1153e600-e402-11ea-8800-e85fd5194819.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- 게임 진행 화면
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![스크린샷 2020-08-21 오후 10 51 03](https://user-images.githubusercontent.com/49897409/90898882-16b13080-e402-11ea-9ed5-165913c0a2c8.png)
 
-### `yarn eject`
+- 게임 정보 화면
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![스크린샷 2020-08-21 오후 10 51 12](https://user-images.githubusercontent.com/49897409/90898889-17e25d80-e402-11ea-92b5-cde6f50cb428.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 상태 관리에 대한 정리
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+처음 사용하는 기술을 서로가 이해할 수 있도록 Wiki를 통해서 정리하고 공유<br/>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+(Wiki Link)[https://github.com/codesquad-member-2020/baseball-10/wiki/%5BFE%5D-Project-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC]

@@ -11,7 +11,7 @@ import _ from "../../util/util";
 
 const Login = () => {
   const [isGameStart, setIsGameStart] = useState(false);
-  const [isLogin, setIsLogin] = useState(false);
+  const [isLogin, setIsLogin] = useState(true);
 
   const history = useHistory();
 
