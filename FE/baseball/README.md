@@ -33,4 +33,4 @@
 
 처음 사용하는 기술을 서로가 이해할 수 있도록 Wiki를 통해서 정리하고 공유<br/>
 
-(Wiki Link)[https://github.com/codesquad-member-2020/baseball-10/wiki/%5BFE%5D-Project-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC]
+[Wiki Link](https://github.com/codesquad-member-2020/baseball-10/wiki/%5BFE%5D-Project-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC)
